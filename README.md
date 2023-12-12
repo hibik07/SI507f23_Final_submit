@@ -11,9 +11,9 @@ Calls to the API use the developer's key and do not require you to provide your 
 
 At any moment, try to type the words that are suggested on the command line as possible as you can.
 
-Some of the parameters that need to be entered when interacting are referenced below:
---cache: type yes/no to load/not-load the cache file
---key: type your key or type 'no' to use author's key
+Some of the parameters that need to be entered when interacting are referenced below:<br>
+--cache: type yes/no to load/not-load the cache file<br>
+--key: type your key or type 'no' to use author's key<br>
 --kind of place: a possible tag among google map's POI tags (hospital/cafe/school...)
 --which place: be specific to a name of city/street/address (Detroit/LA/123 Main St...)
 --radius: a distance away from centre point of place. Type 1000 to represent 1000 meters
