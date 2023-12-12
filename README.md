@@ -1,10 +1,10 @@
 # SI507f23_Final_submit
 only for the code in SI507f23 final project submit<br>
-To execute the code, just execute the main.py file in the prompt.<br>
+
 
 ##Instruction
 
-This code can be run directly in command. 
+This code can be run directly in command. To execute the code, just execute the main.py file in the prompt.<br>
 
 During the process of running, the code will give some interactive prompts. You can follow the prompts to enter the relevant content.
 
