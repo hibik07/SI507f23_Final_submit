@@ -9,6 +9,18 @@ During the process of running, the code will give some interactive prompts. You 
 
 Calls to the API use the developer's key and do not require you to provide your own key (if you have one, you also can use it. Here will be place for you to enter).
 
+At any moment, try to type the words that are suggested on the command line as possible as you can.
+
+Some of the parameters that need to be entered when interacting are referenced below:
+--cache: type yes/no to load/not-load the cache file
+--key: type your key or type 'no' to use author's key
+--kind of place: a possible tag among google map's POI tags (hospital/cafe/school...)
+--which place: be specific to a name of city/street/address (Detroit/LA/123 Main St...)
+--radius: a distance away from centre point of place. Type 1000 to represent 1000 meters
+--func & form: type given number to choose corresponding function. Entering anything else will not report an error, but will enter a re-type.
+--sorting attributes: type rating/name/id. Entering anything else will not report an error, but will enter a re-type.
+--filter number: type any number (can be int/double) between 0-5. Beyond number won't report an error but will show empty result. Negative number will show all the results. 
+
 
 ##Requirements
 
